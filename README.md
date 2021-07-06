@@ -10,8 +10,12 @@ Competition Link: https://www.kaggle.com/c/amazon-employee-access-challenge/
 
 #### Project Details
 - Exploratory data analysis and visualization
+<<<<<<< HEAD
 - Preprocessing with encoding categorical features
 - dealing with imbalanced data using SMOTE 
+=======
+- Preprocessing
+>>>>>>> 7e9cfde1a278fb22ee651404ed4243532b94483f
 - Feature engineering and creating more features
 - Evaluating the models using ROC Curve
 - Finding the best parameters using GridSearchCV
@@ -25,4 +29,8 @@ The models are trained with:
 - Random Forest Classifier
 - XGBoost Classification
 
+<<<<<<< HEAD
 The best model Logistic Regression has achieved **94.62%** accuracy on the test set and auc roc score equals **0.77**.
+=======
+The best model XGBoost has achieved **95,25%** accuracy on the test set.
+>>>>>>> 7e9cfde1a278fb22ee651404ed4243532b94483f
