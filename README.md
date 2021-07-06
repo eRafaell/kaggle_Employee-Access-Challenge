@@ -25,4 +25,4 @@ The models are trained with:
 - Random Forest Classifier
 - XGBoost Classification
 
-The best model Logistic Regression has achieved **94.62%** accuracy on the test set and auc roc score equals **0.77**.
+The best model Logistic Regression has achieved **94.62%** accuracy on the test set and auc roc score equals **0.78**.
